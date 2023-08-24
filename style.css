@@ -1,0 +1,433 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+  
+
+.bar{
+    float: right;
+  margin-right: 20%;
+  
+}
+.bar a{
+    margin-left: 20px;
+  
+   
+}
+.logo{
+   
+   
+    margin-left: 17%;
+   
+}
+
+.logo i{
+   color: #ef7c46;
+}
+
+.nav-bar{
+    height: 60px;
+}
+.btn{
+    background-color: #f29469;
+    color: white;
+    border: none;
+    padding: 5px 15px;
+    
+    
+}
+
+.hero{
+    
+    background-image: url(./Untitled\ design.jpg);
+    height: 90vh;
+}
+.hero h1{
+    color: white;
+    font-size: 30px;
+}
+.hero p{
+    font-size: 20px;
+    padding-top: 1%;
+}
+.hero button{
+    color: white;
+    background-color: #f29469;
+    border: none;
+    padding: 10px 15px;
+    margin-top: 2%;
+}
+.hello{
+   padding-top: 17%;
+   padding-left: 35%;
+   color: white;
+   font-family: 'Courier New', Courier, monospace;
+}
+.text{
+    padding-top: 1%;
+    padding-left: 53%;
+    
+}
+.results{
+    text-align: center;
+    margin-top: 4%;
+    line-height: 25px;
+}
+.container{
+    display: flex;
+    margin-left: 15%;
+    margin-top: 5%;
+    line-height: 25px;
+}
+.item-1{
+    height: 50%;
+    width: 30%;
+}
+.item-1 h3{
+   margin-left: 20%;
+}
+.item-1 p{
+    padding-top: 4%;
+}
+.item-1 img{
+    height: 110px;
+    width: 110px;
+    margin-left: 18%;
+    border-radius: 55px;
+    margin-bottom: 5%;
+}
+.item-2 h3{
+    margin-left: 10%;
+ }
+ .item-3 h3{
+    margin-left: 18%;
+ }
+.item-2 img{
+    height: 110px;
+    width: 110px;
+    margin-left: 18%;
+    border-radius: 55px;
+    margin-bottom: 5%;
+}
+.item-2{
+    height: 50%;
+    width: 30%;
+}
+.item-2 p{
+    padding-top: 4%;
+}
+.item-3 img{
+    height: 110px;
+    width: 110px;
+    margin-left: 18%;
+    border-radius: 55px;
+    margin-bottom: 5%;
+}
+.item-3{
+    height: 50%;
+    width: 30%;
+}
+.item-3 p{
+    padding-top: 4%;
+}
+.main{
+    height: 50vh;
+    width: 100%;
+    background-color:#f5f5f5;
+    margin-top: 5%;
+    display: flex;
+}
+
+.laptop{
+    padding-top: 5%;
+    padding-left: 20%;
+}
+.para{
+    padding-top: 7%;
+    padding-left: 1%;
+    line-height: 25px;
+}
+.para h2{
+    padding-bottom: 5%;
+}
+.process{
+    text-align: center;
+    margin-top: 5%;
+}
+.maine{
+    display: flex;
+    margin-left: 15%;
+    margin-top: 5%;
+    line-height: 25px;
+}
+.card-1{
+    height: 50%;
+    width: 30%;
+  
+}
+.card-2{
+    height: 50%;
+    width: 30%;
+}
+.card-3{
+    height: 50%;
+    width: 30%;
+    margin-top: 1%;
+   
+}
+.card-1 p{
+    padding-top: 4%;
+}
+.card-2 p{
+    padding-top: 4%;
+}
+.card-3 p{
+    padding-top: 4%;
+}
+.card-3 img{
+height: 210px;
+width: 200px;
+}
+.card-1 h3{
+    margin-left: 10%;
+ }
+ .card-2 h3{
+    margin-left: 10%;
+ }
+ .card-3 h3{
+    margin-left: 10%;
+ }
+ .get{
+    height: 50vh;
+    width: 100%;
+    background-color: #525e6c;
+    margin-top: 5%;
+    color: white;
+    padding-top: 8%;
+    padding-left: 25%;
+    line-height: 35px;
+ }
+ .get button{
+    background-color: #f29469;
+    padding: 10px 25px;
+    border: none;
+    color: white;
+ }
+ .get h2{
+    padding-left: 7.5%;
+  
+ }
+ .get p{
+    font-size: 20px;
+ }
+ .want{
+    margin-top: 2%;
+    margin-left: 25%;
+ }
+ .paraa{
+    padding-top: 10%;
+    line-height: 25px;
+    padding-left: 20%;
+ }
+ .paraa h2{
+    padding-bottom: 2%;
+ }
+ .maaain{
+    display: flex;
+    height: 75vh;
+    width: 100%;
+ }
+ .mob{
+    margin-top: 3%;
+ }
+ .testing{
+    height: 130vh;
+    width: 100%;
+    background-color:#f5f5f5;
+    text-align: center;
+    line-height: 30px;
+    padding-top: 6%;
+ }
+ .testing h2{
+    padding-bottom: 1%;
+ }
+ .test{
+    display: flex;
+    
+ }
+ .increase{
+    height: 50vh;
+    width: 100%;
+    background-color:  #525e6c;
+    display: flex;
+    
+    color: white;
+ }
+ .increase img{
+    border-radius: 65px;
+    margin-top: 9%;
+    margin-left: 25%;
+ }
+ .insight{
+    padding-top: 7%;
+    padding-left: 8%;
+    line-height: 30px;
+ }
+ .see{
+    height: 90vh;
+    width: 100%;
+    background-color:#f5f5f5;
+ }
+ .bank{
+    text-align: center;
+    line-height: 30px;
+    padding-top: 5%;
+ }
+ .bank h2{
+    padding-bottom: 1%;
+ }
+ .bank img{
+    padding-top: 5%;
+ }
+ .customers{
+    
+    padding-top: 5%;
+    line-height: 25px;
+ }
+ .company{
+    text-align: center;
+    line-height: 25px;
+ }
+ .company h2{
+    padding-bottom: 1%;
+ }
+ .worked{
+    display: flex;
+    padding-left: 25%;
+    padding-top: 4%;
+    color: #c1c1c1;
+ }
+ .sign{
+    padding-left: 10%;
+ }
+ .monitor{
+    padding-left: 5%;
+ }
+ .store{
+    padding-left: 5%;
+ }
+ .dans button{
+    color: white;
+    background-color: #c1c1c1;
+    border: none;
+    padding: 2px 10px;
+ }
+ .banke button{
+    background-color: white;
+    color: #c1c1c1;
+    border: 1px solid #c1c1c1;
+    padding: 1px 5px;
+   
+ }
+ .back{
+    display: flex;
+    padding-left: 45%;
+    padding-top: 4%;
+    color: #c1c1c1;
+ }
+ .fest{
+    padding-left: 5%;
+ }
+ .proud{
+    text-align: center;
+    padding-top: 8%;
+    line-height: 30px;
+ }
+ .proud p{
+    color: #c1c1c1;
+ }
+ .proud h1{
+    color: #0094da;
+ }
+ .gets{
+    height: 50vh;
+    width: 100%;
+    background-color: #525e6c;
+    margin-top: 5%;
+    color: white;
+    padding-top: 8%;
+    padding-left: 25%;
+    line-height: 35px;
+ }
+ .gets button{
+    background-color: #f29469;
+    padding: 10px 25px;
+    border: none;
+    color: white;
+ }
+ .gets h2{
+    padding-left: 7.5%;
+  
+ }
+ .gets p{
+    font-size: 20px;
+ }
+ .wants{
+    margin-top: 2%;
+    margin-left: 25%;
+ }
+ .letter{
+    height: 35vh;
+    background-color: #1a232b;
+ }
+ .latest{
+    display: flex;
+ }
+ .tips{
+    padding-top: 5%;
+    padding-left: 15%;
+    line-height: 25px;
+ }
+ .tips h3{
+    color: #ef7c46;
+ }
+ .tips p{
+    color: white;
+ }
+ .tips button{
+    background-color: #86ccc9;
+    padding: 6px 8px;
+    color: white;
+    border: none;
+    
+ }
+ .follow{
+    padding-top: 5%;
+    padding-left: 5%;
+    color: #ef7c46;
+ }
+ .follow i{
+   font-size: 20px;
+   color: white;
+ }
+footer{
+    background-color: black;
+    color: white;
+    height: 50px;
+    padding-top: 2%;
+    padding-left: 14%;
+}
+ 
+    
+
+
+
+
+
